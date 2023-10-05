@@ -19,8 +19,8 @@ return ((node->left == NULL && node->right == NULL) ? 1 : 0);
 }
 
 /**
- * depth - Returns the depth
- * tree: A pointer to the node to measure the depth of.
+ *depth - Returns the depth
+ *@tree: A pointer to the node to measure the depth of.
  *
  *Return: The depth
  */
